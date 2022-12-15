@@ -1,5 +1,3 @@
-package excutor;
-
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.PriorityBlockingQueue;
 import java.util.concurrent.TimeUnit;
@@ -13,7 +11,7 @@ public class Test {
         for (int i = 0; i < 20; i++) {
             int finalI = i;
             executor.execute(new Thread(() -> {
-                System.out.println("线程任务 " + finalI + " 执行");
+                System.out.println(Thread.currentThread() + " 线程任务 " + finalI + " 执行");
             }, String.valueOf(i)));
         }
         try {

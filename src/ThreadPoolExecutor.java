@@ -1,5 +1,3 @@
-package excutor;
-
 import javafx.concurrent.Worker;
 
 import javax.swing.plaf.synth.SynthToolBarUI;

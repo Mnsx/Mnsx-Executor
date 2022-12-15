@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd40c9fe-27d8-4246-8375-40dae0f52ca0" name="Changes" comment="" />
+    <list default="true" id="ab098585-7b40-4f5c-b063-6d8cd1d560d6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,7 +32,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2HwjSSXKwaX4ubAjAQjlDFrDVul" />
+  <component name="ProjectId" id="2I5N8msyU7bLEyjcfLb6iwvqt4F" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,20 +41,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Mnsx-Executor\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excutor.Test" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Mnsx-Executor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excutor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,12 +66,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd40c9fe-27d8-4246-8375-40dae0f52ca0" name="Changes" comment="" />
-      <created>1669203040064</created>
+      <changelist id="ab098585-7b40-4f5c-b063-6d8cd1d560d6" name="Changes" comment="" />
+      <created>1669467327377</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1669203040064</updated>
-      <workItem from="1669203041410" duration="10408000" />
+      <updated>1669467327377</updated>
+      <workItem from="1669467329067" duration="118000" />
+      <workItem from="1669467465085" duration="410000" />
+      <workItem from="1669468248557" duration="19000" />
     </task>
     <servers />
   </component>
