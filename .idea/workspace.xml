@@ -41,6 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -48,11 +49,27 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\WorkSpace\Mnsx-Executor\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.mnsx.hashmap" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="Mnsx-Executor" />
+      <option name="MAIN_CLASS_NAME" value="top.mnsx.executor.Test" />
+      <module name="Mnsx-JDK" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Mnsx-JDK" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Mnsx-JDK" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,10 +91,22 @@
       <workItem from="1669467329067" duration="118000" />
       <workItem from="1669467465085" duration="410000" />
       <workItem from="1669468248557" duration="19000" />
+      <workItem from="1673509057828" duration="82000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,5 +1,6 @@
+package top.mnsx.executor;
+
 import java.util.concurrent.LinkedBlockingDeque;
-import java.util.concurrent.PriorityBlockingQueue;
 import java.util.concurrent.TimeUnit;
 
 /**
